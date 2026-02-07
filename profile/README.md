@@ -25,9 +25,9 @@ This repository contains:
 </ul>
 </td>
 <td>
-<div align="center">
+<p align="center">
 <img src="assets/state-diagram.png" alt="state diagram" width="800px">
-</div>
+</p>
 </td>
 </tr>
 
