@@ -16,16 +16,25 @@
 
 <tr>
 <td>
-<b>&bull; agents</b><br>
-This repository contains the base agent and commons agents implementation, besides the AI meterials that are used to generate the softwares
+<a href="https://github.com/auto-agents/agents"><b>&bull; agents</b></a>
+<br>
+This repository contains:
+<ul>
+<li>the base agent and commons agents implementation</li>
+<li>the AI meterials that are used to generate the softwares</li>
+</ul>
 </td>
 <td>
+<div align="center">
+<img src="assets/state-diagram.png" alt="state diagram" width="800px">
+</div>
 </td>
 </tr>
 
 <tr>
 <td>
-<b>&bull; agents-cli</b><br>
+<a href="https://github.com/auto-agents/agents"><b>&bull; agents-cli</b></a>
+<br>
 This repository contains <b>Auto Agents CLI tool</b>
 </td>
 <td>
