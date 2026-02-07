@@ -17,7 +17,7 @@
 <tr>
 <td>
 <a href="https://github.com/auto-agents/agents"><b>&bull; agents</b></a>
-<br>
+<br><br>
 This repository contains:
 <ul>
 <li>the base agent and commons agents implementation</li>
@@ -34,6 +34,7 @@ This repository contains:
 <tr>
 <td>
 <a href="https://github.com/auto-agents/agents"><b>&bull; agents-cli</b></a>
+<br><br>
 <br>
 This repository contains <b>Auto Agents CLI tool</b>
 </td>
