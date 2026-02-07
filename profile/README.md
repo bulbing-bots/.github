@@ -35,7 +35,6 @@ This repository contains:
 <td>
 <a href="https://github.com/auto-agents/agents"><b>&bull; agents-cli</b></a>
 <br><br>
-<br>
 This repository contains the <b>Auto Agents CLI tool</b>
 </td>
 <td>
