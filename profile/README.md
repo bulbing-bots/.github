@@ -7,10 +7,29 @@
 
 ---
 
-**This repository contains the base agent and commons agents implementation**
+**This organizations contains the repositories below:**
 </td>
 <td>
 <img src="assets/agent-5.jfif" alt="Auto Agents" width="800px">
 </td>
 </tr>
+
+<tr>
+<td>
+<b>&bull; agents</b><br>
+This repository contains the base agent and commons agents implementation, besides the AI meterials that are used to generate the softwares
+</td>
+<td>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>&bull; agents-cli</b><br>
+This repository contains <b>Auto Agents CLI tool</b>
+</td>
+<td>
+</td>
+</tr>
+
 </table>
