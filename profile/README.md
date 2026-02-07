@@ -21,7 +21,7 @@
 This repository contains:
 <ul>
 <li>the base agent and commons agents implementation</li>
-<li>the AI meterials that are used to generate the softwares</li>
+<li>the <b>AI materials</b> that are used to generate the softwares</li>
 </ul>
 </td>
 <td>
@@ -36,7 +36,7 @@ This repository contains:
 <a href="https://github.com/auto-agents/agents"><b>&bull; agents-cli</b></a>
 <br><br>
 <br>
-This repository contains <b>Auto Agents CLI tool</b>
+This repository contains the <b>Auto Agents CLI tool</b>
 </td>
 <td>
 </td>
