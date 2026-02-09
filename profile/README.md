@@ -111,7 +111,7 @@ This repository contains the <b>Auto Agents CLI tool</b>
 <br><br>
 This repository contains some plateform specific software modules for both <b>agents</b> and the <b>cli tool</b>:
 
-- [speech](https://github.com/auto-agents/modules/speech)
+- [speech](https://github.com/auto-agents/modules/speech/README.md)
 - voice recognition
 
 </td>
