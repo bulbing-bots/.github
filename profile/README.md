@@ -73,7 +73,7 @@ This project provides a **solid foundation for AI-driven agent generation**, ena
 <table>
 <tr>
 <td colspan="2">
-This organization contains the repositories described below:
+This project includes the repositories described below:
 </td>
 </tr>
 
@@ -101,6 +101,18 @@ This repository contains:
 This repository contains the <b>Auto Agents CLI tool</b>
 </td>
 <td>
+<img src="assets/cli.png" alt="state diagram" width="800px">
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/auto-agents/modules"><b>&bull; modules</b></a>
+<br><br>
+This repository contains some plateform specific software modules for both <b>agents</b> and the <b>>cli</b> tool
+</td>
+<td>
+
 </td>
 </tr>
 
