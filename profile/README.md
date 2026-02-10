@@ -107,7 +107,7 @@ This repository contains the <b>Auto Agents CLI tool</b>
 
 <tr>
 <td>
-<a href="https://github.com/auto-agents/modules><b>&bull; modules</b></a>
+<a href="https://github.com/auto-agents/modules"><b>&bull; modules</b></a>
 <br><br>
 This repository contains some plateform specific software modules for both <b>agents</b> and the <b>cli tool</b>:
 
@@ -116,7 +116,6 @@ This repository contains some plateform specific software modules for both <b>ag
 
 </td>
 <td>
-
 </td>
 </tr>
 
