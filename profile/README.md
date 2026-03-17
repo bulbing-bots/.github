@@ -108,17 +108,15 @@ This repository contains the <b>Auto Agents CLI & TUI tool</b>
 </tr>
 
 <tr>
-<td>
+<td colspan="2">
 <a href="https://github.com/auto-agents/modules"><b>&bull; modules</b></a>
 <br><br>
 This repository contains some plateform specific software modules for both <b>agents</b> and the <b>cli tool</b>:
 
-- [speech](https://github.com/auto-agents/modules/blob/main/speech)
-- voice recognition
-- [hugging face](https://github.com/auto-agents/modules/blob/main/hugging-face)
+- [speech](https://github.com/auto-agents/modules/blob/main/speech) : browser based **`TTS`**
+- [Hugging Face](https://github.com/auto-agents/modules/blob/main/hugging-face) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabse for detailed informations about **models**
+- voice recognition : browser based **`STT`** *(coming soon)*
 
-</td>
-<td>
 </td>
 </tr>
 
