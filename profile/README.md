@@ -121,13 +121,11 @@ This repository contains some plateform specific software modules for both <b>ag
 </tr>
 
 <tr>
-<td>
+<td colspan="2">
 <a href="https://github.com/auto-agents/shared"><b>&bull; shared</b></a>
 <br><br>
 This repository contains librairies & components shared accross <b>auto-agents projects</b>
 
-</td>
-<td>
 </td>
 </tr>
 
