@@ -109,6 +109,7 @@ This repository contains the <b>Auto Agents CLI & TUI tool</b>
 
 <tr>
 <td colspan="2">
+<br>
 <a href="https://github.com/auto-agents/modules"><b>&bull; modules</b></a>
 <br><br>
 This repository contains some plateform specific software modules for both <b>agents</b> and the <b>cli tool</b>:
@@ -122,6 +123,7 @@ This repository contains some plateform specific software modules for both <b>ag
 
 <tr>
 <td colspan="2">
+<br>
 <a href="https://github.com/auto-agents/shared"><b>&bull; shared</b></a>
 <br><br>
 This repository contains librairies & components shared accross <b>auto-agents projects</b>
