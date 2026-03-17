@@ -115,6 +115,7 @@ This repository contains some plateform specific software modules for both <b>ag
 
 - [speech](https://github.com/auto-agents/modules/blob/main/speech)
 - voice recognition
+- [hugging face](https://github.com/auto-agents/modules/blob/main/hugging-face)
 
 </td>
 <td>
@@ -123,9 +124,9 @@ This repository contains some plateform specific software modules for both <b>ag
 
 <tr>
 <td>
-<a href="https://github.com/auto-agents/shared"><b>&bull; modules</b></a>
+<a href="https://github.com/auto-agents/shared"><b>&bull; shared</b></a>
 <br><br>
-This repository contains librairies shared accross <b>auto-agents projects</b>
+This repository contains librairies & components shared accross <b>auto-agents projects</b>
 
 </td>
 <td>
