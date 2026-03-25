@@ -103,7 +103,7 @@ This repository contains:
 This repository contains the <b>Auto Agents CLI & TUI tool</b>
 </td>
 <td>
-<img src="assets/cli.png" alt="state diagram" width="800px">
+<img src="assets/tui.png" alt="state diagram" width="1200px">
 </td>
 </tr>
 
