@@ -122,6 +122,7 @@ This repository contains some plateform specific software modules for <b>cli too
     - **Kitten TTS**
     - **OpenVoice V1**
     - **OpenVoice V2**
+    - **ChatterBox**
 
 #### STT
 
