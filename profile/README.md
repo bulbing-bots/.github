@@ -123,7 +123,8 @@ This repository contains some plateform specific software modules for <b>cli too
     - **OpenVoice V1**
     - **OpenVoice V2**
     - **ChatterBox**
-
+    - **XTTS**
+  
 #### STT
 
 - voice recognition : *Speak To Text* with any browser implementing `WebSpeechAPI` *(coming soon)*
