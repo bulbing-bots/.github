@@ -75,17 +75,20 @@ This project provides a **solid foundation for AI-driven agent generation**, ena
 <table>
 <tr>
 <td colspan="2">
-This project includes the repositories described below:
+
+### This project includes these repositories:
+
 </td>
 </tr>
 
 <tr>
 <td>
-<a href="https://github.com/auto-agents/agents"><b>&bull; agents</b></a>
-<br><br>
+
+<a href="https://github.com/auto-agents/agents"><b><h4>&bull; agents</h4></b></a>
+
 This repository contains:
 <ul>
-<li>the base agent and commons agents implementation</li>
+<li>the base agent and commons <b>software agents</b> implementations</li>
 <li>the <b>AI materials</b> that are used to generate the softwares (defining how agents are specified, generated, executed, and managed)</li>
 </ul>
 </td>
@@ -98,8 +101,9 @@ This repository contains:
 
 <tr>
 <td>
-<a href="https://github.com/auto-agents/cli"><b>&bull; agents-cli</b></a>
-<br><br>
+
+<a href="https://github.com/auto-agents/cli"><b><h4>&bull; cli</h4></b></a>
+
 This repository contains the <b>Auto Agents CLI & TUI tool</b>
 </td>
 <td>
@@ -109,12 +113,12 @@ This repository contains the <b>Auto Agents CLI & TUI tool</b>
 
 <tr>
 <td colspan="2">
-<br>
-<a href="https://github.com/auto-agents/plugins"><b>&bull; plugins</b></a>
-<br><br>
-This repository contains some plateform specific software plugins for <b>cli tool</b>:
 
-#### TTS
+<a href="https://github.com/auto-agents/plugins"><b><h4>&bull; plugins</h4></b></a>
+
+This repository contains **software plugins** for **cli tool**, that allows to add new features and capabilities to the **CLI** and to any **software agent** :
+
+##### TTS
 
 - [tts-browser](https://github.com/auto-agents/plugins/blob/main/speech) : **Text To Speech** with any browser implementing `WebSpeechAPI`
 - [tts-webui](https://github.com/auto-agents/plugins/blob/main/src/TTS/tts-webui) : supports **Text To Speech** from softwares that can be installed in **`TTS WebUI`** [https://github.com/rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI), throught the **Gradio** API. Currently the following TTS providers are available in *auto-agents* :
@@ -125,11 +129,11 @@ This repository contains some plateform specific software plugins for <b>cli too
     - **ChatterBox**
     - **XTTS**
   
-#### STT
+##### STT
 
 - voice recognition : *Speak To Text* with any browser implementing `WebSpeechAPI` *(coming soon)*
 
-#### API
+##### API
 
 - [Hugging Face](https://github.com/auto-agents/plugins/blob/main/hugging-face) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabse for detailed informations about **models**
 
@@ -138,9 +142,24 @@ This repository contains some plateform specific software plugins for <b>cli too
 
 <tr>
 <td colspan="2">
-<br>
-<a href="https://github.com/auto-agents/shared"><b>&bull; shared</b></a>
-<br><br>
+
+<a href="https://github.com/auto-agents/instruct"><b><h4>&bull; instruct</h4></b></a>
+
+This repository contains various **AI instructions** for both **agents** and the **cli tool**:
+
+- `prompts`
+- `system instructions`
+- `cli batches`
+- `skills`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<a href="https://github.com/auto-agents/shared"><b><h4>&bull; shared</h4></b></a>
+
 This repository contains librairies & components shared accross <b>auto-agents projects</b>
 
 </td>
