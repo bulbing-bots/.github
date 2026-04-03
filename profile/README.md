@@ -84,7 +84,7 @@ This project provides a **solid foundation for AI-driven agent generation**, ena
 <tr>
 <td>
 
-<a href="https://github.com/auto-agents/agents"><b><h4>&bull; software agents</h4></b></a>
+<a href="https://github.com/auto-agents/agents"><b><h4>&bull; agents</h4></b></a>
 
 This repository contains:
 <ul>
