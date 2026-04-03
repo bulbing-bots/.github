@@ -110,14 +110,14 @@ This repository contains the <b>Auto Agents CLI & TUI tool</b>
 <tr>
 <td colspan="2">
 <br>
-<a href="https://github.com/auto-agents/modules"><b>&bull; modules</b></a>
+<a href="https://github.com/auto-agents/plugins"><b>&bull; plugins</b></a>
 <br><br>
-This repository contains some plateform specific software modules for <b>cli tool</b>:
+This repository contains some plateform specific software plugins for <b>cli tool</b>:
 
 #### TTS
 
-- [tts-browser](https://github.com/auto-agents/modules/blob/main/speech) : **Text To Speech** with any browser implementing `WebSpeechAPI`
-- [tts-webui](https://github.com/auto-agents/modules/blob/main/src/TTS/tts-webui) : supports **Text To Speech** from softwares that can be installed in **`TTS WebUI`** [https://github.com/rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI), throught the **Gradio** API. Currently the following TTS providers are available in *auto-agents* :
+- [tts-browser](https://github.com/auto-agents/plugins/blob/main/speech) : **Text To Speech** with any browser implementing `WebSpeechAPI`
+- [tts-webui](https://github.com/auto-agents/plugins/blob/main/src/TTS/tts-webui) : supports **Text To Speech** from softwares that can be installed in **`TTS WebUI`** [https://github.com/rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI), throught the **Gradio** API. Currently the following TTS providers are available in *auto-agents* :
     - **Kokoro TTS**
     - **Kitten TTS**
     - **OpenVoice V1**
@@ -131,7 +131,7 @@ This repository contains some plateform specific software modules for <b>cli too
 
 #### API
 
-- [Hugging Face](https://github.com/auto-agents/modules/blob/main/hugging-face) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabse for detailed informations about **models**
+- [Hugging Face](https://github.com/auto-agents/plugins/blob/main/hugging-face) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabse for detailed informations about **models**
 
 </td>
 </tr>
