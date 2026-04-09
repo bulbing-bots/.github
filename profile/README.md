@@ -135,7 +135,7 @@ This repository contains **software plugins** for **cli tool**, that allows to a
 
 ##### API
 
-- [Hugging Face](https://github.com/auto-agents/plugins/blob/main/hugging-face) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabse for detailed informations about **models**
+- [Hugging Face](https://github.com/auto-agents/plugins/blob/main/hugging-face) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabase for detailed informations about **models**
 
 </td>
 </tr>
