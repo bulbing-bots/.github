@@ -42,15 +42,8 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 </tr>
 
 <tr>
-<td></td>
-<td>
-<table width="100%">
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</table>
-</td>
+<td colspan="2"></td>
+
 </tr>
 
 </table>
