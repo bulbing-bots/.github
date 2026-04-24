@@ -88,7 +88,7 @@ This repository contains the **CLI** and **TUI** tool</b>
 <tr>
 <td colspan="2">
 
-<a href="https://github.com/auto-agents/plugins"><b><h4>&bull; plugins</h4></b></a>
+<h4><a href="https://github.com/auto-agents/plugins"><b>&bull; plugins</b></a></h4>
 
 This repository contains **software plugins** for **cli tool**, that allows to add new features and capabilities to the **CLI** and to any **agent**. Any plugin can be load or unload on demand. A plugin can expose its functionnalities to the cli and agents in 5 different ways:
 
@@ -129,7 +129,7 @@ This repository contains **software plugins** for **cli tool**, that allows to a
 <tr>
 <td colspan="2">
 
-<a href="https://github.com/auto-agents/instruct"><b><h4>&bull; instruct</h4></b></a>
+<h4><a href="https://github.com/auto-agents/instruct"><b>&bull; instruct</b></a></h4>
 
 This repository contains various **AI instructions** for both **agents** and the **cli tool**:
 
@@ -144,7 +144,7 @@ This repository contains various **AI instructions** for both **agents** and the
 <tr>
 <td colspan="2">
 
-<a href="https://github.com/auto-agents/shared"><b><h4>&bull; shared</h4></b></a>
+<h4><a href="https://github.com/auto-agents/shared"><b>&bull; shared</b></a></h4>
 
 This repository contains the core framework librairies & components shared accross the projects
 
