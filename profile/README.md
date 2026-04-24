@@ -69,7 +69,7 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 <tr>
 <td>
 
-<a href="https://github.com/auto-agents/cli"><b><h4>&bull; cli</h4></b></a>
+<h4><a href="https://github.com/auto-agents/cli"><b>&bull; cli</b></a></h4>
 
 This repository contains the **CLI** and **TUI** tool</b>
 </td>
