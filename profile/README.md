@@ -34,7 +34,7 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 
 </td>
 <td>
-<img src="assets/agent-5.jfif" alt="Auto Agents" width="800px">
+<img src="assets/agent-5.jfif" alt="Bulbing Bots" width="800px">
 
 *agent **TUI** - helpful & sympathic assistant*
 
@@ -153,9 +153,15 @@ This repository contains various **AI instructions** for both **agents** and the
 
 <a href="https://github.com/auto-agents/shared"><b><h4>&bull; shared</h4></b></a>
 
-This repository contains the core framework librairies & components shared accross the projects</b>
+This repository contains the core framework librairies & components shared accross the projects
 
 </td>
 </tr>
 
 </table>
+
+---
+
+*this software is copyrighted by Franck Gaspoz, since January 2026, under the **GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007** (see file [LICENCE](LICENSE))*
+
+picture credit: [https://raphaelai.org/](https://raphaelai.org/)
