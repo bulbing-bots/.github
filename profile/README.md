@@ -6,17 +6,31 @@
 LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 
 ---
+<table>
+<tr>
+<td valign="top">
 
-- commands, batches
-- tools, skills
 - multi agents
 - sub agents
 - voice agents
 - avatars
 - agent collaboration
+  
+</td>
+
+<td valign="top">
+
+- commands
+- batches
+- tools
+- skills
 - sessions
 - memory
 - plugins
+
+</td>
+
+</tr></table>
 
 </td>
 <td>
