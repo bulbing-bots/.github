@@ -15,17 +15,18 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 - voice agents
 - avatars
 - agent collaboration
+- sessions
+- memory
   
 </td>
 
 <td valign="top">
 
-- commands
-- batches
 - tools
 - skills
-- sessions
-- memory
+- commands
+- batches
+- variables
 - plugins
 
 </td>
