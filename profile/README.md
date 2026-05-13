@@ -145,7 +145,7 @@ This repository contains various **AI instructions** for both **agents** and the
 <tr>
 <td colspan="2">
 
-<h4><a href="https://github.com/auto-agents/shared"><b>&bull; shared</b></a></h4>
+<h4><a href="https://github.com/auto-agents/core"><b>&bull; core</b></a></h4>
 
 This repository contains the core framework librairies & components shared accross the projects
 
