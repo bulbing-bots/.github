@@ -77,7 +77,7 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 <tr>
 <td>
 
-<h4><a href="https://github.com/auto-agents/cli"><b>&bull; cli</b></a></h4>
+<h4><a href="https://github.com/bulbing-bots/cli"><b>&bull; cli</b></a></h4>
 
 This repository contains the **CLI** and **TUI** tool</b>
 </td>
@@ -89,7 +89,7 @@ This repository contains the **CLI** and **TUI** tool</b>
 <tr>
 <td colspan="2">
 
-<h4><a href="https://github.com/auto-agents/plugins"><b>&bull; plugins</b></a></h4>
+<h4><a href="https://github.com/bulbing-bots/plugins"><b>&bull; plugins</b></a></h4>
 
 This repository contains **software plugins** for **cli tool**, that allows to add new features and capabilities to the **CLI** and to any **agent**. Any plugin can be load or unload on demand. A plugin can expose its functionnalities to the cli and agents in 5 different ways:
 
@@ -101,8 +101,8 @@ This repository contains **software plugins** for **cli tool**, that allows to a
 
 #### TTS
 
-- [tts-browser](https://github.com/auto-agents/plugins/blob/main/speech) : **Text To Speech** with any browser implementing `WebSpeechAPI`
-- [tts-webui](https://github.com/auto-agents/plugins/blob/main/src/TTS/tts-webui) : supports **Text To Speech** from softwares that can be installed in **`TTS WebUI`** [https://github.com/rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI), throught the **Gradio** API. Currently the following TTS providers are available in *auto-agents* :
+- [tts-browser](https://github.com/bulbing-bots/plugins/blob/main/speech) : **Text To Speech** with any browser implementing `WebSpeechAPI`
+- [tts-webui](https://github.com/bulbing-bots/plugins/blob/main/src/TTS/tts-webui) : supports **Text To Speech** from softwares that can be installed in **`TTS WebUI`** [https://github.com/rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI), throught the **Gradio** API. Currently the following TTS providers are available in *auto-agents* :
     - **Kokoro TTS**
     - **Kitten TTS**
     - **OpenVoice V1**
@@ -116,11 +116,11 @@ This repository contains **software plugins** for **cli tool**, that allows to a
 
 #### API
 
-- [Hugging Face](https://github.com/auto-agents/plugins/blob/main/src/API/hugging-face/exports/) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabase for detailed informations about **models**
+- [Hugging Face](https://github.com/bulbing-bots/plugins/blob/main/src/API/hugging-face/exports/) : access to **hugging face API**, get model cards and allow to search the huge hugging face dabatabase for detailed informations about **models**
 
 #### WEB
 
-- [Puppeteer](https://github.com/auto-agents/plugins/tree/main/src/WEB/puppeteer-browser/exports) : the browser chromium/firefox commander plugin, that allows to control a browser and use it as a tool & skill for agents. It includes the following features :
+- [Puppeteer](https://github.com/bulbing-bots/plugins/tree/main/src/WEB/puppeteer-browser/exports) : the browser chromium/firefox commander plugin, that allows to control a browser and use it as a tool & skill for agents. It includes the following features :
     - google search
     - page scraper
 
@@ -130,7 +130,7 @@ This repository contains **software plugins** for **cli tool**, that allows to a
 <tr>
 <td colspan="2">
 
-<h4><a href="https://github.com/auto-agents/assets"><b>&bull; assets</b></a></h4>
+<h4><a href="https://github.com/bulbing-bots/assets"><b>&bull; assets</b></a></h4>
 
 This repository contains various **AI assets** for both **agents** and the **cli tool**:
 
@@ -145,7 +145,7 @@ This repository contains various **AI assets** for both **agents** and the **cli
 <tr>
 <td colspan="2">
 
-<h4><a href="https://github.com/auto-agents/core"><b>&bull; core</b></a></h4>
+<h4><a href="https://github.com/bulbing-bots/core"><b>&bull; core</b></a></h4>
 
 This repository contains the core framework librairies & components shared accross the projects
 
