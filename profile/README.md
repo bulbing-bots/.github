@@ -130,9 +130,9 @@ This repository contains **software plugins** for **cli tool**, that allows to a
 <tr>
 <td colspan="2">
 
-<h4><a href="https://github.com/auto-agents/instruct"><b>&bull; instruct</b></a></h4>
+<h4><a href="https://github.com/auto-agents/assets"><b>&bull; assets</b></a></h4>
 
-This repository contains various **AI instructions** for both **agents** and the **cli tool**:
+This repository contains various **AI assets** for both **agents** and the **cli tool**:
 
 - `prompts`
 - `system instructions`
